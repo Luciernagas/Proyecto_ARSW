@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://luisadelahoz:flowerofbunny@cluster0.uo0szen.mongodb.net/?retryWrites=true&w=majority
+      database: ARSW
